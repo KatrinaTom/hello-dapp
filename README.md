@@ -76,5 +76,5 @@ Deploy starts the containers
 
 If all running smoothly, should be able to see the localhost page that says "Hello" to you. 
 
-<img src="images/Hello.png" src=500/>
+<img src="./images/Hello.png" src=500/>
 
